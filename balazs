@@ -1,0 +1,15 @@
+<html>
+<p>Hello <font color="chocolate">World!</font></p>
+<p><b>HTML</b> = HyperText Markup Language</p>
+<p>Die <>-Teile heißen <i>"Tags"</i>.</p>
+
+<p>Hier ein Link zu einer <a href="http://www.farb-tabelle.de" target="_blank">Farb-Tabelle</a> für Web-Farben</p>
+<p>Das a im a-Tag steht für "anchor" (=anker). Der eigentliche Link muss in einem href-Attribut gesetzt werden.</p>
+<img src="wolke.png"> 
+<img src="Katze.jpg">
+
+<table>
+<tr><td>JPG</td></td>
+Panda ist gut!</td></tr>
+  
+</html>
